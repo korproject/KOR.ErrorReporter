@@ -1,0 +1,10 @@
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\bin\Debug\KOR.ErrorReporter.dll
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\bin\Debug\KOR.ErrorReporter.pdb
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\bin\Debug\RestSharp.dll
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\obj\Debug\KOR.ErrorReporter.csprojResolveAssemblyReference.cache
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\obj\Debug\KOR.ErrorReporter.csproj.CoreCompileInputs.cache
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\obj\Debug\KOR.ErrorReporter.csproj.CopyComplete
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\obj\Debug\KOR.ErrorReporter.dll
+C:\Users\e9396\source\repos\KOR.ErrorReporter\KOR.ErrorReporter\obj\Debug\KOR.ErrorReporter.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOR.ErrorReporter", "KOR.ErrorReporter\KOR.ErrorReporter.csproj", "{A5BBE9CB-025D-4D57-AEC1-9F794669DDA7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testa", "Testa\Testa.csproj", "{0B6F6EB2-701F-4C4E-AFAA-700BC741361F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5BBE9CB-025D-4D57-AEC1-9F794669DDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5BBE9CB-025D-4D57-AEC1-9F794669DDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5BBE9CB-025D-4D57-AEC1-9F794669DDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5BBE9CB-025D-4D57-AEC1-9F794669DDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B6F6EB2-701F-4C4E-AFAA-700BC741361F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6F6EB2-701F-4C4E-AFAA-700BC741361F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6F6EB2-701F-4C4E-AFAA-700BC741361F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6F6EB2-701F-4C4E-AFAA-700BC741361F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54205643-A362-443C-8FEE-6E79EBB53A4A}
+	EndGlobalSection
+EndGlobal
